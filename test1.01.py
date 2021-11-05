@@ -153,4 +153,3 @@ Abutton0 = Button(
 Abutton0.pack();
 root.mainloop()
 new_win()
-
