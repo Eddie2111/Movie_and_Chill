@@ -1,10 +1,10 @@
-from random import randint
-from requests import get 
-from tkinter.ttk import Progressbar
-from tkinter import Label, Button, Tk, ttk, Frame
-from bs4 import BeautifulSoup
-from io import BytesIO
-from PIL import ImageTk, Image
+from random         import randint
+from requests       import get 
+from tkinter.ttk    import Progressbar
+from tkinter        import Label, Button, Tk, ttk, Frame
+from bs4            import BeautifulSoup
+from io             import BytesIO
+from PIL            import ImageTk, Image
 import time
 
 pro         = ttk.Progressbar
